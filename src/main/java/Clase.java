@@ -35,7 +35,7 @@ public class Clase {
 		
 		System.out.println(MiArrayList);
 	
-		
+		System.out.println("Introduce tu nombre");
 		
 		
 	}
